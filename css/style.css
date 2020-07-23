@@ -1,16 +1,11 @@
-/* .img-cover {
-    height: 100%;
-    object-fit: cover;
-} */
-
-.thin-margin {
-    padding: 2px;
+.navbar {
+    margin-bottom: 20px;
 }
 
-/* #bird{
-    max-height: 80%;
-    overflow: hidden;
-} */
-/* .row {
-    overflow: hidden;
-} */
+h1 {
+    text-align: center;
+}
+
+.thin-padding {
+    padding: 2px;
+}
