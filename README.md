@@ -6,11 +6,11 @@ This is a responsive personal website/portfolio utilizing Bootstrap.
 
 ## Screenshots
 
-![about_me](./images/screenshot_about_me)
+![about_me](./images/screenshot_about_me.png)
 
-![portfolio](./images/portfolio)
+![portfolio](./images/screenshot_portfolio.png)
 
-![contact](./images/contact)
+![contact](./images/screenshot_contact.png)
 
 ## Link to Site
 
